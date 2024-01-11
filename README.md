@@ -1,1 +1,1 @@
-# sendgrid-service
+# Sendgrid Service Application
